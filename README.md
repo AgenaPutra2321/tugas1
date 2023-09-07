@@ -1,0 +1,1 @@
+Hello git hub, ini adalah repository saya. 
